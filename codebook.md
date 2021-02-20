@@ -43,7 +43,7 @@ Dataset downloaded and extracted under the folder called UCI HAR Dataset
 
     - Entire numbers in `code` column of the `TidyData` replaced with corresponding activity taken from second column of the `activities` variable
 
-6. **Appropriately labels the data set with descriptive variable names*
+6. **Appropriately labels the data set with descriptive variable names**
 
     - `code` column in `TidyData` renamed into `activities`
     - All `Acc` in column’s name replaced by `Accelerometer`
